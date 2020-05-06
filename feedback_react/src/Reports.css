@@ -1,0 +1,172 @@
+.nav-bar-custom {
+    background-color: rgba(16, 24, 105, 1) !important;
+}
+
+.nav-logo {
+    margin: 5%;
+    font-size: 2rem;
+}
+.newS{
+    /*width: 15%;*/
+}
+
+.navbar-custom {
+    margin-left: 5%;
+}
+
+.icon-nav {
+    display: inline;
+    color: white;
+    font-size: 1.5rem;
+    margin-right:2px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+
+.nav-link-custom {
+    display: inline;
+    margin-left: -5%;
+}
+.nav-link
+{
+    display: inline !important;
+}
+.nav-item 
+{
+    margin-right: 13px;
+}
+.label-FMS {
+    opacity: 0.5;
+}
+
+.icon-nav-user {
+    font-size: 2rem;
+    color: white;
+    margin-right: 10px;
+}
+
+.label-user {
+    color: white;
+}
+
+.card-header-custom-1 {
+    background-color: rgba(16, 24, 105, 1) !important;
+    color: white;
+}
+
+.card-title-1 {
+    display: inline-block;
+    font-size: 1.1rem !important;
+}
+
+.div-card-icons {
+    float: right;
+    font-size: 1.2rem !important;
+}
+
+.card-icons {
+    margin-right: 8px;
+}
+
+.icon-refresh {
+    color: green;
+}
+
+.icon-times {
+    color: rgba(220, 53, 69, 1);
+}
+
+.icon-minus {
+    color: rgba(135, 71, 36, 1);
+}
+
+.card-body-custom {
+    background-color: white;
+}
+
+.section-header {
+    background-color: rgba(48, 119, 140, 1);
+    width: 90px;
+    height: 100px;
+    text-align: center;
+}
+
+.section-body {
+    background-color: rgba(144, 201, 220, 1);
+    border: none !important;
+}
+
+.section-header-2 {
+    background-color: rgba(130, 68, 24, 1);
+    width: 90px;
+    height: 100px;
+    text-align: center;
+}
+
+.section-body-2 {
+    background-color: #fed8b1;
+    border: none !important;
+}
+
+.icon-section {
+    margin-top: 22%;
+    font-size: 4rem;
+}
+
+.icon-section-2 {
+    margin-top: 22%;
+    font-size: 4rem;
+}
+
+.btn-color {
+    background-color: rgba(16, 24, 105, 1) !important;
+}
+.btn{
+    font-size:0.8rem;
+}
+.clear-10 {
+    margin: 10px;
+    clear: both;
+}
+
+
+.card-text {
+    font-size: 0.9rem !important;
+}
+
+.card-title {
+    font-size: 1.2rem !important;
+}
+
+.mainContent{
+    width: 80% !important;
+    margin-left:10%;
+}
+@keyframes ui-progress-spinner-color {
+    100%,
+    0% {
+        stroke: #d62d20;
+    }
+    40% {
+        stroke: #0057e7;
+    }
+    66% {
+        stroke: #008744;
+    }
+    80%,
+    90% {
+        stroke: #ffa700;
+    }
+}
+.spinner{
+    margin-left: 50%;
+    margin-top: 20%;
+}
+.p-growl-message {
+    font-size: 16px;
+}
+.p-growl-icon-close-icon{
+    font-size: 1.5rem !important;
+}
